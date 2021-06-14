@@ -10,17 +10,16 @@
 npm install --save react-brush-text
 ```
 
-## Usage
+## Example
 ![img_1.png](img_1.png)
 
-8 types
+#### 8 different types
 ![img.png](img.png)
 
 ```jsx
 import React, { Component } from 'react'
 
 import { Brush } from 'react-brush-text'
-import 'react-brush-text/dist/index.css'
 
 class Example extends Component {
   render() {
