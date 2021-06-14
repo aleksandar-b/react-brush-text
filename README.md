@@ -11,6 +11,7 @@ npm install --save react-brush-text
 ```
 
 ## Usage
+![img.png](img.png)
 
 ```jsx
 import React, { Component } from 'react'
